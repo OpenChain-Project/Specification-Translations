@@ -17,6 +17,7 @@ OpenChain 설명서([https://www.openchainproject.org/spec](https://www.openchai
 |--|--|--|
 | Jongbaek Park | BKL | jb.park@bkl.co.kr |
 | Seo-Young Isabelle Hwang | Samsung | seoyoung.hwang@samsung.com |
+| Jongho Hong | LGE | jjongho.hong@lge.com |
 | You | Your company | Your email address |
 
 ## License
