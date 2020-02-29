@@ -1,7 +1,7 @@
 
 # OpenChain Specification Korean Translation
 
-OpenChain 설명서([https://www.openchainproject.org/spec](https://www.openchainproject.org/spec))의 한국어 번역은 다음 repository에서 진행합니다 : https://github.com/OpenChain-Project/Specification-Translation-KR
+OpenChain Specification([https://www.openchainproject.org/spec](https://www.openchainproject.org/spec))의 한국어 번역입니다. 
 
 
 ## Contributor
@@ -9,7 +9,7 @@ OpenChain 설명서([https://www.openchainproject.org/spec](https://www.openchai
 
 | Name | Company | Email |
 |--|--|--|
-| Haksung Jang | LG Electronics | hakssung@gmail.com |
+| Haksung Jang | SK Telecom | haksung@sk.com |
 
 **Contributor(s):**
 
@@ -17,12 +17,13 @@ OpenChain 설명서([https://www.openchainproject.org/spec](https://www.openchai
 |--|--|--|
 | Jongbaek Park | BKL | jb.park@bkl.co.kr |
 | Seo-Young Isabelle Hwang | Samsung | seoyoung.hwang@samsung.com |
-| Jongho Hong | LGE | jjongho.hong@lge.com |
+| Jongho Hong | LG  Electronics | jjongho.hong@lge.com |
+| Kyoungae Kim | LG Electronics | kyoungae.kim@lge.com |
 | You | Your company | Your email address |
 
 ## License
 번역 결과물은 CC BY 4.0로 공개합니다. : [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
-## OpenChain Korea Work Group Wiki
-[https://wiki.linuxfoundation.org/openchain/openchain-korean-working-group](https://wiki.linuxfoundation.org/openchain/openchain-korean-working-group)
+## OpenChain Korea Work Group 소개 페이지
+[https://openchain-project.github.io/OpenChain-KWG/](https://openchain-project.github.io/OpenChain-KWG/)
 
